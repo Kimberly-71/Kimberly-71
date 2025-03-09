@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pancake
+- 👋 Hi, I’m Ricer
 - 👀 I’m interested in coding and offer
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on OpenSource
